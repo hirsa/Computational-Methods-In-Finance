@@ -1,0 +1,10 @@
+Icon
+.ipynb_checkpoints/
+Code/.ipynb_checkpoints/
+Code/*.tex
+Code/Icon
+Code/tisean/__pycache__/
+Code/tisean/Icon
+Code/tisean/.ipynb_checkpoints/
+Code/denoise_functions/__pycache__/
+Output/Icon
